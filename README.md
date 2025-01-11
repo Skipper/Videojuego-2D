@@ -22,6 +22,10 @@ Este proyecto es una demostración de mi aprendizaje en el desarrollo de videoju
   - **Loot System**: recolectar objetos tras derrotar enemigos.
   - Tienda para comprar objetos y sistema de crafting para crear ítems.
 
+- **🎮 Controles Móviles**: 
+  - Implementación de un **joystick virtual** para controlar al personaje en dispositivos móviles.
+  - Interfaz de usuario **responsiva**, adaptada para pantallas táctiles.
+
 - **🎥 Dinámica de Cámara**:
   - Movimiento de la cámara implementado con **Cinemachine**.
 
