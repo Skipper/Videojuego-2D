@@ -14,8 +14,9 @@ Este proyecto es una demostración de mi aprendizaje en el desarrollo de videoju
 
 - **📜 Mecánicas de Juego**: 
   - Movimiento del personaje principal con animaciones suaves.
-  - Sistema de **salud**, **maná**, y **atributos** como fuerza y resistencia.
+  - Sistema de **salud**, **maná**, **experiencia**, y **atributos** como fuerza y resistencia.
   - Inventario funcional: recoger, mover, equipar y usar objetos.
+  - Inventario específico: equipar y remover objetos.
   - NPC con sistema de **diálogos** y **misiones (Quests)**.
   - **Combate**: lucha contra enemigos con inteligencia artificial.
   - **Loot System**: recolectar objetos tras derrotar enemigos.
