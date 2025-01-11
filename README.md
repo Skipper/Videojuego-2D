@@ -1,5 +1,9 @@
 # 🎮 Desarrollo de Videojuego 2D
 
+<div style="text-align: center;">
+    <img src="images/05.png" alt="Screenshot" width="1000">
+</div>
+
 Este proyecto es una demostración de mi aprendizaje en el desarrollo de videojuegos 2D utilizando Unity y C#. Personalicé un videojuego tipo RPG descargando sprites gratuitos de internet con fines educativos. Siguiendo el curso **"Desarrollo de videojuegos en 2D"** de Udemy, logré implementar varias mecánicas y conceptos fundamentales.
 
 ## ✨ Características Principales
@@ -47,14 +51,13 @@ Este proyecto es una demostración de mi aprendizaje en el desarrollo de videoju
 <div style="text-align: center;">
     <img src="images/01.png" alt="Screenshot" width="400">
     <img src="images/02.png" alt="Screenshot" width="400">
-    <img src="images/03.png" alt="Screenshot" width="400">
     <img src="images/04.png" alt="Screenshot" width="400">
-    <img src="images/05.png" alt="Screenshot" width="400">
     <img src="images/06.png" alt="Screenshot" width="400">
     <img src="images/07.png" alt="Screenshot" width="400">
     <img src="images/08.png" alt="Screenshot" width="400">
     <img src="images/09.png" alt="Screenshot" width="400">
     <img src="images/10.png" alt="Screenshot" width="400">
+    <img src="images/03.png" alt="Screenshot" width="400">
 </div>
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
